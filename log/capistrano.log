@@ -1,0 +1,295 @@
+# Logfile created on 2017-12-25 23:19:37 -0500 by logger.rb/56815
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-25 23:19:37 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-25 23:19:45 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-25 23:29:05 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-25 23:29:47 -0500 cap production check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-25 23:29:52 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-25 23:30:11 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-25 23:30:16 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-25 23:30:24 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-25 23:30:30 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-25 23:31:00 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-25 23:46:09 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO TEST
+ ERROR TEST2
+ DEBUG [907f9110] Running [ -w /var/www/send_email_template ] as ubuntu@ec2-18-218-30-147.us-east-2.compute.amazonaws.com
+ DEBUG [907f9110] Command: [ -w /var/www/send_email_template ]
+  INFO TEST
+ ERROR TEST2
+ DEBUG [16f76e1f] Running [ -w /var/www/send_email_template ] as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [16f76e1f] Command: [ -w /var/www/send_email_template ]
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-25 23:46:37 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+ DEBUG [513a709a] Running [ -w /var/www/send_email_template ] as ubuntu@ec2-18-218-30-147.us-east-2.compute.amazonaws.com
+ DEBUG [513a709a] Command: [ -w /var/www/send_email_template ]
+ DEBUG [dd45918c] Running [ -w /var/www/send_email_template ] as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [dd45918c] Command: [ -w /var/www/send_email_template ]
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-25 23:47:02 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO Running check_write_permissions
+ DEBUG [fcfdce24] Running [ -w /var/www/send_email_template ] as ubuntu@ec2-18-218-30-147.us-east-2.compute.amazonaws.com
+  INFO Running check_write_permissions
+ DEBUG [fcfdce24] Command: [ -w /var/www/send_email_template ]
+ DEBUG [bc21919e] Running [ -w /var/www/send_email_template ] as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [bc21919e] Command: [ -w /var/www/send_email_template ]
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-25 23:47:23 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO Running check_write_permissions: ec2-18-218-30-147.us-east-2.compute.amazonaws.com
+ DEBUG [dcb14932] Running [ -w /var/www/send_email_template ] as ubuntu@ec2-18-218-30-147.us-east-2.compute.amazonaws.com
+ DEBUG [dcb14932] Command: [ -w /var/www/send_email_template ]
+  INFO Running check_write_permissions: ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [9cbf518f] Running [ -w /var/www/send_email_template ] as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [9cbf518f] Command: [ -w /var/www/send_email_template ]
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:17:43 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [702f3026] Running /usr/bin/env mkdir -p /tmp as ubuntu@ec2-18-218-30-147.us-east-2.compute.amazonaws.com
+ DEBUG [702f3026] Command: /usr/bin/env mkdir -p /tmp
+  INFO [eed497b6] Running /usr/bin/env mkdir -p /tmp as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [eed497b6] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:19:06 -0500 cap staging forwarding
+  INFO ---------------------------------------------------------------------------
+ DEBUG [a2b4cb0a] Running env | grep SSH_AUTH_SOCK as ubuntu@ec2-18-218-30-147.us-east-2.compute.amazonaws.com
+ DEBUG [a2b4cb0a] Command: env | grep SSH_AUTH_SOCK
+ DEBUG [ac2669a7] Running env | grep SSH_AUTH_SOCK as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [ac2669a7] Command: env | grep SSH_AUTH_SOCK
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:22:47 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO Running check_write_permissions: ec2-18-218-30-147.us-east-2.compute.amazonaws.com
+ DEBUG [86209bb5] Running [ -w /var/www/send_email_template ] as ubuntu@ec2-18-218-30-147.us-east-2.compute.amazonaws.com
+ DEBUG [86209bb5] Command: [ -w /var/www/send_email_template ]
+  INFO Running check_write_permissions: localhost
+ DEBUG [b4d4a6eb] Running [ -w /var/www/send_email_template ] on localhost
+ DEBUG [b4d4a6eb] Command: [ -w /var/www/send_email_template ]
+  INFO Running check_write_permissions: ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [38375a31] Running [ -w /var/www/send_email_template ] as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [38375a31] Command: [ -w /var/www/send_email_template ]
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:23:10 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO Running check_write_permissions: localhost
+ DEBUG [1a72acba] Running [ -w /var/www/send_email_template ] on localhost
+ DEBUG [1a72acba] Command: [ -w /var/www/send_email_template ]
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:23:40 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO Running check_write_permissions: localhost
+ DEBUG [aae188b4] Running [ -w /var/www/send_email_template ] on localhost
+ DEBUG [aae188b4] Command: [ -w /var/www/send_email_template ]
+ DEBUG [aae188b4] Finished in 0.062 seconds with exit status 1 (failed).
+ ERROR /var/www/send_email_template is not writable on localhost
+  INFO Done running check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:25:05 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO Running check_write_permissions: localhost
+ DEBUG [bae8e4a3] Running [ -w /tmp/send_email_template ] on localhost
+ DEBUG [bae8e4a3] Command: [ -w /tmp/send_email_template ]
+ DEBUG [bae8e4a3] Finished in 0.062 seconds with exit status 1 (failed).
+ ERROR /tmp/send_email_template is not writable on localhost
+  INFO Done running check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:25:29 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO Running check_write_permissions: localhost
+ DEBUG [1c0f6cfb] Running [ -w /tmp/send_email_template ] on localhost
+ DEBUG [1c0f6cfb] Command: [ -w /tmp/send_email_template ]
+ DEBUG [1c0f6cfb] Finished in 0.058 seconds with exit status 0 (successful).
+  INFO /tmp/send_email_template is writable on localhost
+  INFO Done running check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:25:35 -0500 cap staging forwarding
+  INFO ---------------------------------------------------------------------------
+ DEBUG [010c64e4] Running env | grep SSH_AUTH_SOCK on localhost
+ DEBUG [010c64e4] Command: env | grep SSH_AUTH_SOCK
+ DEBUG [010c64e4] 	SSH_AUTH_SOCK=/tmp/ssh-wgmAPo9xSK/agent.11917
+ DEBUG [010c64e4] Finished in 0.057 seconds with exit status 0 (successful).
+  INFO Agent forwarding is up to localhost
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:25:39 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [f75f7608] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [f75f7608] Command: /usr/bin/env mkdir -p /tmp
+  INFO [f75f7608] Finished in 0.060 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [9877a7ab] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh on localhost
+ DEBUG [9877a7ab] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [9877a7ab] Finished in 0.009 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:26:26 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [e6d88016] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [e6d88016] Command: /usr/bin/env mkdir -p /tmp
+  INFO [e6d88016] Finished in 0.059 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [08cdc688] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh on localhost
+ DEBUG [08cdc688] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [08cdc688] Finished in 0.008 seconds with exit status 0 (successful).
+  INFO [535f5b65] Running /usr/bin/env git ls-remote vklogin@https://github.com/vklogin/send_email_template.git HEAD on localhost
+ DEBUG [535f5b65] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote vklogin@https://github.com/vklogin/send_email_template.git HEAD )
+ DEBUG [535f5b65] 	fatal: I don't handle protocol 'vklogin@https'
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:26:32 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [4e29b72a] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [4e29b72a] Command: /usr/bin/env mkdir -p /tmp
+  INFO [4e29b72a] Finished in 0.060 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [05044d8a] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh on localhost
+ DEBUG [05044d8a] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [05044d8a] Finished in 0.009 seconds with exit status 0 (successful).
+  INFO [31d59094] Running /usr/bin/env git ls-remote vklogin@https://github.com/vklogin/send_email_template.git HEAD on localhost
+ DEBUG [31d59094] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote vklogin@https://github.com/vklogin/send_email_template.git HEAD )
+ DEBUG [31d59094] 	fatal: I don't handle protocol 'vklogin@https'
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:26:51 -0500 cap staging uptime
+  INFO ---------------------------------------------------------------------------
+  INFO [641ff3ee] Running /usr/bin/env any_command with args here and here on localhost
+ DEBUG [641ff3ee] Command: /usr/bin/env any_command with args here and here
+ DEBUG [641ff3ee] 	env: any_command: No such file or directory
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:27:09 -0500 cap staging uptime
+  INFO ---------------------------------------------------------------------------
+  INFO [aff0e631] Running /usr/bin/env echo with args here and here on localhost
+ DEBUG [aff0e631] Command: /usr/bin/env echo with args here and here
+ DEBUG [aff0e631] 	with args here and here
+  INFO [aff0e631] Finished in 0.060 seconds with exit status 0 (successful).
+ DEBUG [ae258bbb] Running /usr/bin/env uptime on localhost
+ DEBUG [ae258bbb] Command: /usr/bin/env uptime
+ DEBUG [ae258bbb] 	 0:27  up 1 day, 23:37, 9 users, load averages: 1.65 1.60 1.60
+ DEBUG [ae258bbb] Finished in 0.014 seconds with exit status 0 (successful).
+  INFO Host localhost (mine):	0:27  up 1 day, 23:37, 9 users, load averages: 1.65 1.60 1.60
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:27:32 -0500 cap staging uptime
+  INFO ---------------------------------------------------------------------------
+  INFO [2148d41e] Running /usr/bin/env echo with args here and here on localhost
+ DEBUG [2148d41e] Command: /usr/bin/env echo with args here and here
+ DEBUG [2148d41e] 	with args here and here
+  INFO [2148d41e] Finished in 0.061 seconds with exit status 0 (successful).
+ DEBUG [37d21e79] Running /usr/bin/env uptime on localhost
+ DEBUG [37d21e79] Command: /usr/bin/env uptime
+ DEBUG [37d21e79] 	 0:27  up 1 day, 23:37, 9 users, load averages: 1.51 1.57 1.58
+ DEBUG [37d21e79] Finished in 0.011 seconds with exit status 0 (successful).
+  INFO Host localhost (mine):	0:27  up 1 day, 23:37, 9 users, load averages: 1.51 1.57 1.58
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:44:20 -0500 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [6dcac754] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [6dcac754] Command: /usr/bin/env mkdir -p /tmp
+  INFO [6dcac754] Finished in 0.058 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [d0730dd9] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh on localhost
+ DEBUG [d0730dd9] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [d0730dd9] Finished in 0.009 seconds with exit status 0 (successful).
+  INFO [a106fa74] Running /usr/bin/env git ls-remote vklogin@https://github.com/vklogin/send_email_template.git HEAD on localhost
+ DEBUG [a106fa74] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote vklogin@https://github.com/vklogin/send_email_template.git HEAD )
+ DEBUG [a106fa74] 	fatal: I don't handle protocol 'vklogin@https'
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:45:11 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [a7652b69] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [a7652b69] Command: /usr/bin/env mkdir -p /tmp
+  INFO [a7652b69] Finished in 0.062 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [a2747012] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh on localhost
+ DEBUG [a2747012] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [a2747012] Finished in 0.010 seconds with exit status 0 (successful).
+  INFO [aea72767] Running /usr/bin/env git ls-remote vklogin@http://github.com/vklogin/send_email_template.git HEAD on localhost
+ DEBUG [aea72767] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote vklogin@http://github.com/vklogin/send_email_template.git HEAD )
+ DEBUG [aea72767] 	fatal: I don't handle protocol 'vklogin@http'
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:50:49 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [9360e8fb] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [9360e8fb] Command: /usr/bin/env mkdir -p /tmp
+  INFO [9360e8fb] Finished in 0.059 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [5e61b45c] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh on localhost
+ DEBUG [5e61b45c] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [5e61b45c] Finished in 0.008 seconds with exit status 0 (successful).
+  INFO [0b9cac46] Running /usr/bin/env git ls-remote vklogin@https://github.com/vklogin/send_email_template.git HEAD on localhost
+ DEBUG [0b9cac46] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote vklogin@https://github.com/vklogin/send_email_template.git HEAD )
+ DEBUG [0b9cac46] 	fatal: I don't handle protocol 'vklogin@https'
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:51:14 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [3e76437c] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [3e76437c] Command: /usr/bin/env mkdir -p /tmp
+  INFO [3e76437c] Finished in 0.059 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [00e51890] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh on localhost
+ DEBUG [00e51890] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [00e51890] Finished in 0.009 seconds with exit status 0 (successful).
+  INFO [93eff8e2] Running /usr/bin/env git ls-remote vklogin@https://github.com/vklogin/send_email_template.git HEAD on localhost
+ DEBUG [93eff8e2] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote vklogin@https://github.com/vklogin/send_email_template.git HEAD )
+ DEBUG [93eff8e2] 	fatal: I don't handle protocol 'vklogin@https'
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:51:24 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [3a6328a8] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [3a6328a8] Command: /usr/bin/env mkdir -p /tmp
+  INFO [3a6328a8] Finished in 0.061 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [d8233daa] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh on localhost
+ DEBUG [d8233daa] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [d8233daa] Finished in 0.008 seconds with exit status 0 (successful).
+  INFO [2591b69a] Running /usr/bin/env git ls-remote  HEAD on localhost
+ DEBUG [2591b69a] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote  HEAD )
+ DEBUG [2591b69a] 	fatal: 'HEAD' does not appear to be a git repository
+ DEBUG [2591b69a] 	fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:52:10 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [8ae66ac2] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [8ae66ac2] Command: /usr/bin/env mkdir -p /tmp
+  INFO [8ae66ac2] Finished in 0.059 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [72966843] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh on localhost
+ DEBUG [72966843] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [72966843] Finished in 0.009 seconds with exit status 0 (successful).
+  INFO [bb3b3229] Running /usr/bin/env git ls-remote  HEAD on localhost
+ DEBUG [bb3b3229] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote  HEAD )
+ DEBUG [bb3b3229] 	fatal: 'HEAD' does not appear to be a git repository
+ DEBUG [bb3b3229] 	fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
