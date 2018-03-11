@@ -293,3 +293,506 @@ and the repository exists.
 
 Please make sure you have the correct access rights
 and the repository exists.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:53:36 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [f9c17367] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [f9c17367] Command: /usr/bin/env mkdir -p /tmp
+  INFO [f9c17367] Finished in 0.060 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [98924ffa] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh on localhost
+ DEBUG [98924ffa] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [98924ffa] Finished in 0.009 seconds with exit status 0 (successful).
+  INFO [ae73aa86] Running /usr/bin/env git ls-remote  HEAD on localhost
+ DEBUG [ae73aa86] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote  HEAD )
+ DEBUG [ae73aa86] 	fatal: 'HEAD' does not appear to be a git repository
+ DEBUG [ae73aa86] 	fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:54:02 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [0161a815] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [0161a815] Command: /usr/bin/env mkdir -p /tmp
+  INFO [0161a815] Finished in 0.060 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [8296887f] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh on localhost
+ DEBUG [8296887f] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [8296887f] Finished in 0.009 seconds with exit status 0 (successful).
+  INFO [35f9a812] Running /usr/bin/env git ls-remote vklogin@https://github.com/vklogin/send_email_template.git HEAD on localhost
+ DEBUG [35f9a812] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote vklogin@https://github.com/vklogin/send_email_template.git HEAD )
+ DEBUG [35f9a812] 	fatal: I don't handle protocol 'vklogin@https'
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:56:44 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [b556e186] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [b556e186] Command: /usr/bin/env mkdir -p /tmp
+  INFO [b556e186] Finished in 0.061 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [c676c3d9] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh on localhost
+ DEBUG [c676c3d9] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [c676c3d9] Finished in 0.009 seconds with exit status 0 (successful).
+  INFO [6e63c247] Running /usr/bin/env git ls-remote vklogin@https://github.com/vklogin/send_email_template.git HEAD on localhost
+ DEBUG [6e63c247] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote vklogin@https://github.com/vklogin/send_email_template.git HEAD )
+ DEBUG [6e63c247] 	fatal: I don't handle protocol 'vklogin@https'
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:59:38 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [2b1ba891] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [2b1ba891] Command: /usr/bin/env mkdir -p /tmp
+  INFO [2b1ba891] Finished in 0.067 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [1d8924c5] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh on localhost
+ DEBUG [1d8924c5] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [1d8924c5] Finished in 0.008 seconds with exit status 0 (successful).
+  INFO [6471c3a7] Running /usr/bin/env git ls-remote vklogin@https://github.com/vklogin/send_email_template HEAD on localhost
+ DEBUG [6471c3a7] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote vklogin@https://github.com/vklogin/send_email_template HEAD )
+ DEBUG [6471c3a7] 	fatal: I don't handle protocol 'vklogin@https'
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 00:59:51 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [52b5fe39] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [52b5fe39] Command: /usr/bin/env mkdir -p /tmp
+  INFO [52b5fe39] Finished in 0.068 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [230f7638] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh on localhost
+ DEBUG [230f7638] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [230f7638] Finished in 0.008 seconds with exit status 0 (successful).
+  INFO [a95d1c4c] Running /usr/bin/env git ls-remote https://github.com/vklogin/send_email_template HEAD on localhost
+ DEBUG [a95d1c4c] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote https://github.com/vklogin/send_email_template HEAD )
+ DEBUG [a95d1c4c] 	f7bd611dbee90e3aa5903ae238ab38b1918b4043	HEAD
+  INFO [a95d1c4c] Finished in 0.346 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 01:00:24 -0500 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [143ab7a0] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [143ab7a0] Command: /usr/bin/env mkdir -p /tmp
+  INFO [143ab7a0] Finished in 0.061 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [bf9d83a9] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh on localhost
+ DEBUG [bf9d83a9] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [bf9d83a9] Finished in 0.008 seconds with exit status 0 (successful).
+  INFO [a90c078c] Running /usr/bin/env git ls-remote https://github.com/vklogin/send_email_template HEAD on localhost
+ DEBUG [a90c078c] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote https://github.com/vklogin/send_email_template HEAD )
+ DEBUG [a90c078c] 	f7bd611dbee90e3aa5903ae238ab38b1918b4043	HEAD
+  INFO [a90c078c] Finished in 0.257 seconds with exit status 0 (successful).
+  INFO [74af1b27] Running /usr/bin/env mkdir -p /tmp/send_email_template/shared /tmp/send_email_template/releases on localhost
+ DEBUG [74af1b27] Command: /usr/bin/env mkdir -p /tmp/send_email_template/shared /tmp/send_email_template/releases
+  INFO [74af1b27] Finished in 0.010 seconds with exit status 0 (successful).
+ DEBUG [7f6cb4da] Running [ -f /tmp/send_email_template/current/REVISION ] on localhost
+ DEBUG [7f6cb4da] Command: [ -f /tmp/send_email_template/current/REVISION ]
+ DEBUG [7f6cb4da] Finished in 0.007 seconds with exit status 1 (failed).
+ DEBUG [940342ef] Running [ -f /tmp/send_email_template/repo/HEAD ] on localhost
+ DEBUG [940342ef] Command: [ -f /tmp/send_email_template/repo/HEAD ]
+ DEBUG [940342ef] Finished in 0.007 seconds with exit status 1 (failed).
+ DEBUG [572a65b4] Running if test ! -d /tmp/send_email_template; then echo "Directory does not exist '/tmp/send_email_template'" 1>&2; false; fi on localhost
+ DEBUG [572a65b4] Command: if test ! -d /tmp/send_email_template; then echo "Directory does not exist '/tmp/send_email_template'" 1>&2; false; fi
+ DEBUG [572a65b4] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [e8623986] Running /usr/bin/env git clone --mirror https://github.com/vklogin/send_email_template /tmp/send_email_template/repo on localhost
+ DEBUG [e8623986] Command: cd /tmp/send_email_template && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git clone --mirror https://github.com/vklogin/send_email_template /tmp/send_email_template/repo )
+ DEBUG [e8623986] 	Cloning into bare repository '/tmp/send_email_template/repo'...
+  INFO [e8623986] Finished in 0.324 seconds with exit status 0 (successful).
+ DEBUG [cb49e769] Running if test ! -d /tmp/send_email_template/repo; then echo "Directory does not exist '/tmp/send_email_template/repo'" 1>&2; false; fi on localhost
+ DEBUG [cb49e769] Command: if test ! -d /tmp/send_email_template/repo; then echo "Directory does not exist '/tmp/send_email_template/repo'" 1>&2; false; fi
+ DEBUG [cb49e769] Finished in 0.008 seconds with exit status 0 (successful).
+  INFO [46ed7367] Running /usr/bin/env git remote set-url origin https://github.com/vklogin/send_email_template on localhost
+ DEBUG [46ed7367] Command: cd /tmp/send_email_template/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git remote set-url origin https://github.com/vklogin/send_email_template )
+  INFO [46ed7367] Finished in 0.013 seconds with exit status 0 (successful).
+  INFO [6b9b86a5] Running /usr/bin/env git remote update --prune on localhost
+ DEBUG [6b9b86a5] Command: cd /tmp/send_email_template/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git remote update --prune )
+ DEBUG [6b9b86a5] 	Fetching origin
+  INFO [6b9b86a5] Finished in 0.197 seconds with exit status 0 (successful).
+ DEBUG [9bc28903] Running if test ! -d /tmp/send_email_template/repo; then echo "Directory does not exist '/tmp/send_email_template/repo'" 1>&2; false; fi on localhost
+ DEBUG [9bc28903] Command: if test ! -d /tmp/send_email_template/repo; then echo "Directory does not exist '/tmp/send_email_template/repo'" 1>&2; false; fi
+ DEBUG [9bc28903] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [f9426edf] Running /usr/bin/env mkdir -p /tmp/send_email_template/releases/20171226060025 on localhost
+ DEBUG [f9426edf] Command: cd /tmp/send_email_template/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env mkdir -p /tmp/send_email_template/releases/20171226060025 )
+  INFO [f9426edf] Finished in 0.010 seconds with exit status 0 (successful).
+  INFO [109f6964] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /tmp/send_email_template/releases/20171226060025 on localhost
+ DEBUG [109f6964] Command: cd /tmp/send_email_template/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /tmp/send_email_template/releases/20171226060025 )
+  INFO [109f6964] Finished in 0.018 seconds with exit status 0 (successful).
+ DEBUG [058224e1] Running if test ! -d /tmp/send_email_template/repo; then echo "Directory does not exist '/tmp/send_email_template/repo'" 1>&2; false; fi on localhost
+ DEBUG [058224e1] Command: if test ! -d /tmp/send_email_template/repo; then echo "Directory does not exist '/tmp/send_email_template/repo'" 1>&2; false; fi
+ DEBUG [058224e1] Finished in 0.007 seconds with exit status 0 (successful).
+ DEBUG [d6b62a90] Running /usr/bin/env git rev-list --max-count=1 master on localhost
+ DEBUG [d6b62a90] Command: cd /tmp/send_email_template/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git rev-list --max-count=1 master )
+ DEBUG [d6b62a90] 	f7bd611dbee90e3aa5903ae238ab38b1918b4043
+ DEBUG [d6b62a90] Finished in 0.013 seconds with exit status 0 (successful).
+ DEBUG [9970a3a1] Running if test ! -d /tmp/send_email_template/releases/20171226060025; then echo "Directory does not exist '/tmp/send_email_template/releases/20171226060025'" 1>&2; false; fi on localhost
+ DEBUG [9970a3a1] Command: if test ! -d /tmp/send_email_template/releases/20171226060025; then echo "Directory does not exist '/tmp/send_email_template/releases/20171226060025'" 1>&2; false; fi
+ DEBUG [9970a3a1] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [89af3303] Running /usr/bin/env echo "f7bd611dbee90e3aa5903ae238ab38b1918b4043" >> REVISION on localhost
+ DEBUG [89af3303] Command: cd /tmp/send_email_template/releases/20171226060025 && /usr/bin/env echo "f7bd611dbee90e3aa5903ae238ab38b1918b4043" >> REVISION
+  INFO [89af3303] Finished in 0.009 seconds with exit status 0 (successful).
+ DEBUG [2029e119] Running if test ! -d /tmp/send_email_template/releases/20171226060025; then echo "Directory does not exist '/tmp/send_email_template/releases/20171226060025'" 1>&2; false; fi on localhost
+ DEBUG [2029e119] Command: if test ! -d /tmp/send_email_template/releases/20171226060025; then echo "Directory does not exist '/tmp/send_email_template/releases/20171226060025'" 1>&2; false; fi
+ DEBUG [2029e119] Finished in 0.006 seconds with exit status 0 (successful).
+ DEBUG [2e8c9af6] Running /usr/bin/env bundle check --path /tmp/send_email_template/shared/bundle on localhost
+ DEBUG [2e8c9af6] Command: cd /tmp/send_email_template/releases/20171226060025 && /usr/bin/env bundle check --path /tmp/send_email_template/shared/bundle
+ DEBUG [2e8c9af6] 	env: bundle: No such file or directory
+ DEBUG [2e8c9af6] Finished in 0.009 seconds with exit status 127 (failed).
+  INFO [b192aa02] Running /usr/bin/env bundle install --path /tmp/send_email_template/shared/bundle --without development test --deployment --quiet on localhost
+ DEBUG [b192aa02] Command: cd /tmp/send_email_template/releases/20171226060025 && /usr/bin/env bundle install --path /tmp/send_email_template/shared/bundle --without development test --deployment --quiet
+ DEBUG [b192aa02] 	env: bundle: No such file or directory
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 01:02:43 -0500 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [e82ff9a8] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [e82ff9a8] Command: /usr/bin/env mkdir -p /tmp
+  INFO [e82ff9a8] Finished in 0.065 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [a196059e] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh on localhost
+ DEBUG [a196059e] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [a196059e] Finished in 0.010 seconds with exit status 0 (successful).
+  INFO [bbca78d4] Running /usr/bin/env git ls-remote https://github.com/vklogin/send_email_template HEAD on localhost
+ DEBUG [bbca78d4] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote https://github.com/vklogin/send_email_template HEAD )
+ DEBUG [bbca78d4] 	f7bd611dbee90e3aa5903ae238ab38b1918b4043	HEAD
+  INFO [bbca78d4] Finished in 0.229 seconds with exit status 0 (successful).
+  INFO [1b326776] Running /usr/bin/env mkdir -p /tmp/send_email_template/shared /tmp/send_email_template/releases on localhost
+ DEBUG [1b326776] Command: /usr/bin/env mkdir -p /tmp/send_email_template/shared /tmp/send_email_template/releases
+  INFO [1b326776] Finished in 0.012 seconds with exit status 0 (successful).
+ DEBUG [89b1843c] Running [ -f /tmp/send_email_template/current/REVISION ] on localhost
+ DEBUG [89b1843c] Command: [ -f /tmp/send_email_template/current/REVISION ]
+ DEBUG [89b1843c] Finished in 0.008 seconds with exit status 1 (failed).
+ DEBUG [4bdf01f2] Running [ -f /tmp/send_email_template/repo/HEAD ] on localhost
+ DEBUG [4bdf01f2] Command: [ -f /tmp/send_email_template/repo/HEAD ]
+ DEBUG [4bdf01f2] Finished in 0.008 seconds with exit status 0 (successful).
+  INFO The repository mirror is at /tmp/send_email_template/repo
+ DEBUG [d98b4fc8] Running if test ! -d /tmp/send_email_template/repo; then echo "Directory does not exist '/tmp/send_email_template/repo'" 1>&2; false; fi on localhost
+ DEBUG [d98b4fc8] Command: if test ! -d /tmp/send_email_template/repo; then echo "Directory does not exist '/tmp/send_email_template/repo'" 1>&2; false; fi
+ DEBUG [d98b4fc8] Finished in 0.006 seconds with exit status 0 (successful).
+  INFO [1617f962] Running /usr/bin/env git remote set-url origin https://github.com/vklogin/send_email_template on localhost
+ DEBUG [1617f962] Command: cd /tmp/send_email_template/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git remote set-url origin https://github.com/vklogin/send_email_template )
+  INFO [1617f962] Finished in 0.015 seconds with exit status 0 (successful).
+  INFO [33b518e1] Running /usr/bin/env git remote update --prune on localhost
+ DEBUG [33b518e1] Command: cd /tmp/send_email_template/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git remote update --prune )
+ DEBUG [33b518e1] 	Fetching origin
+  INFO [33b518e1] Finished in 0.228 seconds with exit status 0 (successful).
+ DEBUG [d7cde2d1] Running if test ! -d /tmp/send_email_template/repo; then echo "Directory does not exist '/tmp/send_email_template/repo'" 1>&2; false; fi on localhost
+ DEBUG [d7cde2d1] Command: if test ! -d /tmp/send_email_template/repo; then echo "Directory does not exist '/tmp/send_email_template/repo'" 1>&2; false; fi
+ DEBUG [d7cde2d1] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [58470732] Running /usr/bin/env mkdir -p /tmp/send_email_template/releases/20171226060243 on localhost
+ DEBUG [58470732] Command: cd /tmp/send_email_template/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env mkdir -p /tmp/send_email_template/releases/20171226060243 )
+  INFO [58470732] Finished in 0.010 seconds with exit status 0 (successful).
+  INFO [14ef1b84] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /tmp/send_email_template/releases/20171226060243 on localhost
+ DEBUG [14ef1b84] Command: cd /tmp/send_email_template/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /tmp/send_email_template/releases/20171226060243 )
+  INFO [14ef1b84] Finished in 0.018 seconds with exit status 0 (successful).
+ DEBUG [362b5857] Running if test ! -d /tmp/send_email_template/repo; then echo "Directory does not exist '/tmp/send_email_template/repo'" 1>&2; false; fi on localhost
+ DEBUG [362b5857] Command: if test ! -d /tmp/send_email_template/repo; then echo "Directory does not exist '/tmp/send_email_template/repo'" 1>&2; false; fi
+ DEBUG [362b5857] Finished in 0.006 seconds with exit status 0 (successful).
+ DEBUG [a6efd9e5] Running /usr/bin/env git rev-list --max-count=1 master on localhost
+ DEBUG [a6efd9e5] Command: cd /tmp/send_email_template/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git rev-list --max-count=1 master )
+ DEBUG [a6efd9e5] 	f7bd611dbee90e3aa5903ae238ab38b1918b4043
+ DEBUG [a6efd9e5] Finished in 0.019 seconds with exit status 0 (successful).
+ DEBUG [83c0d1fc] Running if test ! -d /tmp/send_email_template/releases/20171226060243; then echo "Directory does not exist '/tmp/send_email_template/releases/20171226060243'" 1>&2; false; fi on localhost
+ DEBUG [83c0d1fc] Command: if test ! -d /tmp/send_email_template/releases/20171226060243; then echo "Directory does not exist '/tmp/send_email_template/releases/20171226060243'" 1>&2; false; fi
+ DEBUG [83c0d1fc] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [b49b217b] Running /usr/bin/env echo "f7bd611dbee90e3aa5903ae238ab38b1918b4043" >> REVISION on localhost
+ DEBUG [b49b217b] Command: cd /tmp/send_email_template/releases/20171226060243 && /usr/bin/env echo "f7bd611dbee90e3aa5903ae238ab38b1918b4043" >> REVISION
+  INFO [b49b217b] Finished in 0.009 seconds with exit status 0 (successful).
+ DEBUG [f2548694] Running if test ! -d /tmp/send_email_template/releases/20171226060243; then echo "Directory does not exist '/tmp/send_email_template/releases/20171226060243'" 1>&2; false; fi on localhost
+ DEBUG [f2548694] Command: if test ! -d /tmp/send_email_template/releases/20171226060243; then echo "Directory does not exist '/tmp/send_email_template/releases/20171226060243'" 1>&2; false; fi
+ DEBUG [f2548694] Finished in 0.009 seconds with exit status 0 (successful).
+ DEBUG [26e2f7fb] Running /usr/bin/env bundle check --path /tmp/send_email_template/shared/bundle on localhost
+ DEBUG [26e2f7fb] Command: cd /tmp/send_email_template/releases/20171226060243 && /usr/bin/env bundle check --path /tmp/send_email_template/shared/bundle
+ DEBUG [26e2f7fb] 	env: bundle: No such file or directory
+ DEBUG [26e2f7fb] Finished in 0.008 seconds with exit status 127 (failed).
+  INFO [1339f4f9] Running /usr/bin/env bundle install --path /tmp/send_email_template/shared/bundle --without development test --deployment --quiet on localhost
+ DEBUG [1339f4f9] Command: cd /tmp/send_email_template/releases/20171226060243 && /usr/bin/env bundle install --path /tmp/send_email_template/shared/bundle --without development test --deployment --quiet
+ DEBUG [1339f4f9] 	env: 
+ DEBUG [1339f4f9] 	bundle: No such file or directory
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 01:25:09 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [fcd79463] Running /usr/bin/env mkdir -p /tmp as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [fcd79463] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 01:25:27 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [2db25c7c] Running /usr/bin/env mkdir -p /tmp on ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [2db25c7c] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 01:25:34 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [95a9daf5] Running /usr/bin/env mkdir -p /tmp as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [95a9daf5] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-26 01:25:40 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [1bfdad45] Running /usr/bin/env mkdir -p /tmp as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [1bfdad45] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-27 14:33:02 -0500 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [8ccbccee] Running /usr/bin/env mkdir -p /tmp as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [8ccbccee] Command: /usr/bin/env mkdir -p /tmp
+  INFO [8ccbccee] Finished in 0.626 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [1dbd24bf] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [1dbd24bf] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [1dbd24bf] Finished in 0.055 seconds with exit status 0 (successful).
+  INFO [8e3993b1] Running /usr/bin/env git ls-remote https://github.com/vklogin/send_email_template HEAD as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [8e3993b1] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote https://github.com/vklogin/send_email_template HEAD )
+ DEBUG [8e3993b1] 	f7bd611dbee90e3aa5903ae238ab38b1918b4043	HEAD
+  INFO [8e3993b1] Finished in 0.769 seconds with exit status 0 (successful).
+  INFO [0c59663d] Running /usr/bin/env mkdir -p /tmp/send_email_template/shared /tmp/send_email_template/releases as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [0c59663d] Command: /usr/bin/env mkdir -p /tmp/send_email_template/shared /tmp/send_email_template/releases
+  INFO [0c59663d] Finished in 0.052 seconds with exit status 0 (successful).
+ DEBUG [3923074d] Running [ -f /tmp/send_email_template/current/REVISION ] as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [3923074d] Command: [ -f /tmp/send_email_template/current/REVISION ]
+ DEBUG [3923074d] Finished in 0.052 seconds with exit status 1 (failed).
+ DEBUG [b0d8a9bb] Running [ -f /tmp/send_email_template/repo/HEAD ] as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [b0d8a9bb] Command: [ -f /tmp/send_email_template/repo/HEAD ]
+ DEBUG [b0d8a9bb] Finished in 0.052 seconds with exit status 1 (failed).
+ DEBUG [daaaa0e1] Running if test ! -d /tmp/send_email_template; then echo "Directory does not exist '/tmp/send_email_template'" 1>&2; false; fi as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [daaaa0e1] Command: if test ! -d /tmp/send_email_template; then echo "Directory does not exist '/tmp/send_email_template'" 1>&2; false; fi
+ DEBUG [daaaa0e1] Finished in 0.053 seconds with exit status 0 (successful).
+  INFO [69b859fc] Running /usr/bin/env git clone --mirror https://github.com/vklogin/send_email_template /tmp/send_email_template/repo as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [69b859fc] Command: cd /tmp/send_email_template && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git clone --mirror https://github.com/vklogin/send_email_template /tmp/send_email_template/repo )
+ DEBUG [69b859fc] 	Cloning into bare repository '/tmp/send_email_template/repo'...
+  INFO [69b859fc] Finished in 0.694 seconds with exit status 0 (successful).
+ DEBUG [80a7e278] Running if test ! -d /tmp/send_email_template/repo; then echo "Directory does not exist '/tmp/send_email_template/repo'" 1>&2; false; fi as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [80a7e278] Command: if test ! -d /tmp/send_email_template/repo; then echo "Directory does not exist '/tmp/send_email_template/repo'" 1>&2; false; fi
+ DEBUG [80a7e278] Finished in 0.079 seconds with exit status 0 (successful).
+  INFO [a6f7b5fe] Running /usr/bin/env git remote set-url origin https://github.com/vklogin/send_email_template as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [a6f7b5fe] Command: cd /tmp/send_email_template/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git remote set-url origin https://github.com/vklogin/send_email_template )
+  INFO [a6f7b5fe] Finished in 0.058 seconds with exit status 0 (successful).
+  INFO [74eacc4e] Running /usr/bin/env git remote update --prune as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [74eacc4e] Command: cd /tmp/send_email_template/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git remote update --prune )
+ DEBUG [74eacc4e] 	Fetching origin
+  INFO [74eacc4e] Finished in 0.370 seconds with exit status 0 (successful).
+ DEBUG [9fbabca5] Running if test ! -d /tmp/send_email_template/repo; then echo "Directory does not exist '/tmp/send_email_template/repo'" 1>&2; false; fi as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [9fbabca5] Command: if test ! -d /tmp/send_email_template/repo; then echo "Directory does not exist '/tmp/send_email_template/repo'" 1>&2; false; fi
+ DEBUG [9fbabca5] Finished in 0.075 seconds with exit status 0 (successful).
+  INFO [7ab6052e] Running /usr/bin/env mkdir -p /tmp/send_email_template/releases/20171227193304 as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [7ab6052e] Command: cd /tmp/send_email_template/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env mkdir -p /tmp/send_email_template/releases/20171227193304 )
+  INFO [7ab6052e] Finished in 0.059 seconds with exit status 0 (successful).
+  INFO [5388171c] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /tmp/send_email_template/releases/20171227193304 as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [5388171c] Command: cd /tmp/send_email_template/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /tmp/send_email_template/releases/20171227193304 )
+  INFO [5388171c] Finished in 0.061 seconds with exit status 0 (successful).
+ DEBUG [186d8f9d] Running if test ! -d /tmp/send_email_template/repo; then echo "Directory does not exist '/tmp/send_email_template/repo'" 1>&2; false; fi as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [186d8f9d] Command: if test ! -d /tmp/send_email_template/repo; then echo "Directory does not exist '/tmp/send_email_template/repo'" 1>&2; false; fi
+ DEBUG [186d8f9d] Finished in 0.051 seconds with exit status 0 (successful).
+ DEBUG [bf745b4e] Running /usr/bin/env git rev-list --max-count=1 master as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [bf745b4e] Command: cd /tmp/send_email_template/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git rev-list --max-count=1 master )
+ DEBUG [bf745b4e] 	f7bd611dbee90e3aa5903ae238ab38b1918b4043
+ DEBUG [bf745b4e] Finished in 0.057 seconds with exit status 0 (successful).
+ DEBUG [e8f30981] Running if test ! -d /tmp/send_email_template/releases/20171227193304; then echo "Directory does not exist '/tmp/send_email_template/releases/20171227193304'" 1>&2; false; fi as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [e8f30981] Command: if test ! -d /tmp/send_email_template/releases/20171227193304; then echo "Directory does not exist '/tmp/send_email_template/releases/20171227193304'" 1>&2; false; fi
+ DEBUG [e8f30981] Finished in 0.050 seconds with exit status 0 (successful).
+  INFO [4796b2ef] Running /usr/bin/env echo "f7bd611dbee90e3aa5903ae238ab38b1918b4043" >> REVISION as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [4796b2ef] Command: cd /tmp/send_email_template/releases/20171227193304 && /usr/bin/env echo "f7bd611dbee90e3aa5903ae238ab38b1918b4043" >> REVISION
+  INFO [4796b2ef] Finished in 0.105 seconds with exit status 0 (successful).
+ DEBUG [3be9117a] Running if test ! -d /tmp/send_email_template/releases/20171227193304; then echo "Directory does not exist '/tmp/send_email_template/releases/20171227193304'" 1>&2; false; fi as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [3be9117a] Command: if test ! -d /tmp/send_email_template/releases/20171227193304; then echo "Directory does not exist '/tmp/send_email_template/releases/20171227193304'" 1>&2; false; fi
+ DEBUG [3be9117a] Finished in 0.066 seconds with exit status 0 (successful).
+ DEBUG [0a5f7052] Running /usr/bin/env bundle check --path /tmp/send_email_template/shared/bundle as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [0a5f7052] Command: cd /tmp/send_email_template/releases/20171227193304 && /usr/bin/env bundle check --path /tmp/send_email_template/shared/bundle
+ DEBUG [0a5f7052] 	/usr/bin/env: 
+ DEBUG [0a5f7052] 	‘bundle’
+ DEBUG [0a5f7052] 	: No such file or directory
+ DEBUG [0a5f7052] 	
+ DEBUG [0a5f7052] Finished in 0.054 seconds with exit status 127 (failed).
+  INFO [7e25a927] Running /usr/bin/env bundle install --path /tmp/send_email_template/shared/bundle --without development test --deployment --quiet as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [7e25a927] Command: cd /tmp/send_email_template/releases/20171227193304 && /usr/bin/env bundle install --path /tmp/send_email_template/shared/bundle --without development test --deployment --quiet
+ DEBUG [7e25a927] 	/usr/bin/env: 
+ DEBUG [7e25a927] 	‘bundle’
+ DEBUG [7e25a927] 	: No such file or directory
+ DEBUG [7e25a927] 	
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-29 16:51:14 -0500 cap staging uptime
+  INFO ---------------------------------------------------------------------------
+  INFO [dde97754] Running /usr/bin/env echo with args here and here as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [dde97754] Command: /usr/bin/env echo with args here and here
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-29 16:51:41 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [1cfd560a] Running /usr/bin/env mkdir -p /tmp as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [1cfd560a] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-12-29 16:51:49 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO Running check_write_permissions: ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [6ed0f2e8] Running [ -w /tmp/send_email_template ] as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [6ed0f2e8] Command: [ -w /tmp/send_email_template ]
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 20:58:55 -0500 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 22:10:26 -0500 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [2913acce] Running /usr/bin/env mkdir -p /tmp as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [2913acce] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 22:26:50 -0500 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [f41d8d0c] Running /usr/bin/env mkdir -p /tmp as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [f41d8d0c] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 22:27:52 -0500 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [2b7c6c52] Running /usr/bin/env mkdir -p /tmp as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [2b7c6c52] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 22:28:24 -0500 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [390ad22a] Running /usr/bin/env mkdir -p /tmp as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [390ad22a] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 22:28:49 -0500 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [88b945f2] Running /usr/bin/env mkdir -p /tmp as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [88b945f2] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 22:28:57 -0500 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [bf186abf] Running /usr/bin/env mkdir -p /tmp as vkumar17@localhost
+ DEBUG [bf186abf] Command: /usr/bin/env mkdir -p /tmp
+  INFO [bf186abf] Finished in 0.090 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [b9cb4e26] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh as vkumar17@localhost
+ DEBUG [b9cb4e26] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [b9cb4e26] Finished in 0.015 seconds with exit status 0 (successful).
+  INFO [eb092333] Running /usr/bin/env git ls-remote  HEAD as vkumar17@localhost
+ DEBUG [eb092333] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote  HEAD )
+ DEBUG [eb092333] 	fatal: 'HEAD' does not appear to be a git repository
+ DEBUG [eb092333] 	fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 23:10:53 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO Running check_write_permissions: ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [29bb15f6] Running [ -w /tmp/send_email_template ] as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [29bb15f6] Command: [ -w /tmp/send_email_template ]
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 23:11:01 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO Running check_write_permissions: ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [b349e5d0] Running [ -w /tmp/send_email_template ] as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [b349e5d0] Command: [ -w /tmp/send_email_template ]
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 23:11:07 -0500 cap staging check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO Running check_write_permissions: ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [a02c8e6a] Running [ -w /tmp/send_email_template ] as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [a02c8e6a] Command: [ -w /tmp/send_email_template ]
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 23:11:42 -0500 cap production check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO Running check_write_permissions: localhost
+ DEBUG [2405fe3f] Running [ -w /tmp/send_email_template ] as vkumar17@localhost
+ DEBUG [2405fe3f] Command: [ -w /tmp/send_email_template ]
+ DEBUG [2405fe3f] Finished in 0.071 seconds with exit status 1 (failed).
+ ERROR /tmp/send_email_template is not writable on localhost
+  INFO Done running check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 23:11:54 -0500 cap production check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO Running check_write_permissions: localhost
+ DEBUG [5109eb66] Running [ -w /tmp/send_email_template ] as vkumar17@localhost
+ DEBUG [5109eb66] Command: [ -w /tmp/send_email_template ]
+ DEBUG [5109eb66] Finished in 0.073 seconds with exit status 0 (successful).
+  INFO /tmp/send_email_template is writable on localhost
+  INFO Done running check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 23:12:19 -0500 cap production forwarding
+  INFO ---------------------------------------------------------------------------
+ DEBUG [9ca7632b] Running env | grep SSH_AUTH_SOCK as vkumar17@localhost
+ DEBUG [9ca7632b] Command: env | grep SSH_AUTH_SOCK
+ DEBUG [9ca7632b] 	SSH_AUTH_SOCK=/tmp/ssh-px3AEIYs2W/agent.55747
+ DEBUG [9ca7632b] Finished in 0.072 seconds with exit status 0 (successful).
+  INFO Agent forwarding is up to localhost
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 23:12:26 -0500 cap production uptime
+  INFO ---------------------------------------------------------------------------
+  INFO [fe9b4ab1] Running /usr/bin/env echo with args here and here as vkumar17@localhost
+ DEBUG [fe9b4ab1] Command: /usr/bin/env echo with args here and here
+ DEBUG [fe9b4ab1] 	with args here and here
+  INFO [fe9b4ab1] Finished in 0.077 seconds with exit status 0 (successful).
+ DEBUG [1acf7de6] Running /usr/bin/env uptime as vkumar17@localhost
+ DEBUG [1acf7de6] Command: /usr/bin/env uptime
+ DEBUG [1acf7de6] 	23:12  up 2 days,  7:41, 10 users, load averages: 1.87 1.94 1.85
+ DEBUG [1acf7de6] Finished in 0.020 seconds with exit status 0 (successful).
+  INFO Host localhost (email):	23:12  up 2 days,  7:41, 10 users, load averages: 1.87 1.94 1.85
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 23:13:11 -0500 cap production email
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 23:13:17 -0500 cap production
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 23:13:31 -0500 cap install production
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 23:14:30 -0500 cap production
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 23:14:34 -0500 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [bb7d5bdd] Running /usr/bin/env mkdir -p /tmp as vkumar17@localhost
+ DEBUG [bb7d5bdd] Command: /usr/bin/env mkdir -p /tmp
+  INFO [bb7d5bdd] Finished in 0.077 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [8f86678e] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh as vkumar17@localhost
+ DEBUG [8f86678e] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [8f86678e] Finished in 0.015 seconds with exit status 0 (successful).
+  INFO [b9f1562f] Running /usr/bin/env git ls-remote  HEAD as vkumar17@localhost
+ DEBUG [b9f1562f] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote  HEAD )
+ DEBUG [b9f1562f] 	fatal: 'HEAD' does not appear to be a git repository
+ DEBUG [b9f1562f] 	fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 23:17:30 -0500 cap staging git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [90cef57a] Running /usr/bin/env mkdir -p /tmp as ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com
+ DEBUG [90cef57a] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-07 23:17:40 -0500 cap production git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [270d781d] Running /usr/bin/env mkdir -p /tmp as vkumar17@localhost
+ DEBUG [270d781d] Command: /usr/bin/env mkdir -p /tmp
+  INFO [270d781d] Finished in 0.071 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [eb6211b8] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh as vkumar17@localhost
+ DEBUG [eb6211b8] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [eb6211b8] Finished in 0.015 seconds with exit status 0 (successful).
+  INFO [686ac65d] Running /usr/bin/env git ls-remote  HEAD as vkumar17@localhost
+ DEBUG [686ac65d] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote  HEAD )
+ DEBUG [686ac65d] 	fatal: 'HEAD' does not appear to be a git repository
+ DEBUG [686ac65d] 	fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-03-11 18:44:11 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [4c5064a9] Running /usr/bin/env mkdir -p /tmp as ec2-user@54.88.86.170
+ DEBUG [4c5064a9] Command: /usr/bin/env mkdir -p /tmp
+  INFO [4c5064a9] Finished in 0.357 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 0.0%
+  INFO Uploading /tmp/git-ssh-send_email_template-staging-vkumar17.sh 100.0%
+  INFO [1471f32b] Running /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh as ec2-user@54.88.86.170
+ DEBUG [1471f32b] Command: /usr/bin/env chmod 700 /tmp/git-ssh-send_email_template-staging-vkumar17.sh
+  INFO [1471f32b] Finished in 0.042 seconds with exit status 0 (successful).
+  INFO [23930a82] Running /usr/bin/env git ls-remote  HEAD as ec2-user@54.88.86.170
+ DEBUG [23930a82] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-send_email_template-staging-vkumar17.sh" ; /usr/bin/env git ls-remote  HEAD )
+ DEBUG [23930a82] 	/usr/bin/env: 
+ DEBUG [23930a82] 	git
+ DEBUG [23930a82] 	: No such file or directory
+ DEBUG [23930a82] 	

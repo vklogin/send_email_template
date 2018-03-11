@@ -1,8 +1,9 @@
 set :stage, :staging
 
-role :mine, %w{localhost}
-#role :email, %w{ubuntu@ec2-18-221-41-25.us-east-2.compute.amazonaws.com}
+#role :mine, %w{localhost}
+#role :email, %w{ec2-user@54.88.86.170}
 #role :svcint, %w{ubuntu@ec2-18-218-30-147.us-east-2.compute.amazonaws.com}
+role :email, %w{vkumar17@localhost}
 
 
 

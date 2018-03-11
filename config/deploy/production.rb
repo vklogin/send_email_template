@@ -1,3 +1,8 @@
+set :stage, :staging
+
+#role :mine, %w{localhost}
+role :email, %w{ec2-user@54.88.86.170}
+
 # server-based syntax
 # ======================
 # Defines a single server with a list of roles and multiple properties.

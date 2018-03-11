@@ -2,11 +2,11 @@
 lock "3.10.1"
 
 set :application, "send_email_template"
-set :scm, :git
-set :repository, "vklogin@https://github.com/vklogin/send_email_template.git"
-#set :repo_url, "vklogin@https://github.com/vklogin/send_email_template.git"
+#set :scm, :git
+#set :repository, "vklogin@https://github.com/vklogin/send_email_template.git"
+#set :repo_url, "https://github.com/vklogin/send_email_template"
 #set :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }
-set :branch, "master"
+#set :branch, "master"
 #ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
 
 # Default branch is :master
@@ -15,7 +15,8 @@ set :branch, "master"
 # Default deploy_to directory is /var/www/my_app_name
 set :deploy_to, "/tmp/send_email_template"
 
-set :ssh_options, { :forward_agent => true }
+#set :ssh_options, { :forward_agent => true }
+#ssh_options[:keys] = %w(/Users/vkumar17/dev/note/awsterraform/vknew3.pem)
 
 # Default value for :format is :airbrussh.
 # set :format, :airbrussh
